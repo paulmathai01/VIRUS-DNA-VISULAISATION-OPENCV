@@ -1,0 +1,11 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project_3_UI.vcxproj -> C:\CSC5050\Project_3_UI\x64\Debug\Project_3_UI.exe

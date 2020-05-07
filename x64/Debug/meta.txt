@@ -1,0 +1,17 @@
+Corona\\2019-12-China-MN908947.txt
+Corona\\2020-02-10-Japan-LC528232.txt
+Corona\\2020-02-11-Australia-MT007544.txt
+Corona\\2020-02-11-Finland-MT020781.txt
+Corona\\2020-02-11-Shenzhen-MN938384.txt
+Corona\\2020-02-11-USA-AZ-MN997409.txt
+Corona\\2020-02-11-USA-WA-MN985325.txt
+Corona\\2020-02-12-USA-CA-MT044258.txt
+Corona\\2020-02-18-Nepal-MT072688.txt
+Corona\\2020-03-02-Brazil-MT126808.txt
+Corona\\2020-03-06-India-K-MT012098.txt
+Corona\\2020-03-06-Wuhan-LR757995.txt
+Corona\\2020-03-09-Italy-MT066156.txt
+test\\test1.txt
+test\\test2.txt
+Check\\2019-12-China-MN908947.txt
+Check\\2019-12-China-MN908947.txt
